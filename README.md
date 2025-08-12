@@ -1,5 +1,4 @@
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/drive/1LHyqf9meYoZytONZRZHdFT9yPpLYra67?authuser=2#scrollTo=gC66yicRybtr)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1LHyqf9meYoZytONZRZHdFT9yPpLYra67?authuser=2#scrollTo=gC66yicRybtr)
 
 # Análisis de Componentes Principales (PCA)
 
