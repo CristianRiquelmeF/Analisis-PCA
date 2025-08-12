@@ -39,12 +39,12 @@ El propósito es:
 
 Ejemplo de gráfico de varianza explicada:
 
-![Varianza Explicada]<img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/a1c150ad-88fe-40f5-adfc-1686060d9a01" />
+<img width="790" height="490" alt="image" src="https://github.com/user-attachments/assets/a1c150ad-88fe-40f5-adfc-1686060d9a01" />
 
 
 Ejemplo de proyección en dos componentes principales:
 
-![Proyección PCA]<img width="790" height="590" alt="image" src="https://github.com/user-attachments/assets/69c3e527-1d49-42da-a69e-755ecc899fd2" />
+<img width="790" height="590" alt="image" src="https://github.com/user-attachments/assets/69c3e527-1d49-42da-a69e-755ecc899fd2" />
 
 
 ---
