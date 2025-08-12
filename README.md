@@ -1,3 +1,6 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/drive/1LHyqf9meYoZytONZRZHdFT9yPpLYra67?authuser=2#scrollTo=gC66yicRybtr)
+
 # Análisis de Componentes Principales (PCA)
 
 Este proyecto implementa **Análisis de Componentes Principales (PCA)** para explorar y reducir la dimensionalidad de un conjunto de datos, destacando las variables que más contribuyen a la varianza total.
