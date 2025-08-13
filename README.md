@@ -50,15 +50,6 @@ Ejemplo de proyección en dos componentes principales:
 
 
 ---
-
-##  Estructura del repositorio
-```
-├── Análisis_de_PCA.ipynb   # Notebook con el análisis completo
-├── README.md               # Este archivo
-└── docs/
-    ├── varianza_explicada.png
-    └── proyeccion_pca.png
-```
-
+> Proyecto desarrollado como parte de portafolio de Machine Learning avanzado.
 ---
 
